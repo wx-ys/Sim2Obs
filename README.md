@@ -7,14 +7,12 @@ Code Structure:
 simtobs.py: a class that collects all modules and functions.
 * grabsim: file IO for processing different simulation data.
 * runskirt: according to the parameters file, provide the .ski template and set the .ski file parameters.
+* ...
 
-...
-
-Current progress
-grabsim, one file IO: (Read_AnastrisTNG), roughly completed
-runskirt, roughly completed
-
-mock, filter, visualization...  
+Current progress:
+* grabsim, one file IO: (Read_AnastrisTNG), roughly completed
+* runskirt, roughly completed
+* mock, filter, visualization ...  future work
 
 
 ## Usage
